@@ -1,0 +1,219 @@
+<AVISHKAR ID="APPLICATIONS">
+  <Module ID="MASTER">
+    <Page ID="ClientMaster.aspx">
+      <Msg Message="New Client Creation" />
+    </Page>
+    <Page ID="ClientAuthorize.aspx">
+      <Msg Message="After Creating new Client, Client Should be Authorized here" />
+    </Page>
+    <Page ID="ClientAddrModify.aspx">
+      <Msg Message="Can Modify/Change Client Addr" />
+    </Page>
+    <Page ID="StandingInstructions.aspx">
+      <Msg Message="Allows to Create a Standing Instructions" />
+    </Page>
+    <Page ID="GeneralEnq.aspx">
+      <Msg Message="Dispaly Details of Client Code Entered" />
+    </Page>
+    <Page ID="GroupEmployee.aspx">
+      <Msg Message=" GroupEmployee Notifications" />
+    </Page>
+  </Module>
+  <Module ID="DEPOSIT">
+    <Page ID="DepositEnq.aspx">
+      <Msg Message="Shows details of the Account and Amount after Certain Time" />
+    </Page>
+    <Page ID="RDinterestpostin.aspx">
+      <Msg Message="Allows to do Posting for RD Accounts" />
+    </Page>
+    <Page ID="ChangeOfJointHolder.aspx">
+      <Msg Message="Allows to Change Joint Holder and Nominee Details" />
+    </Page>
+    <Page ID="CashCertificateInterestPosting.aspx">
+      <Msg Message="Allows to do Posting for CC Accounts" />
+    </Page>
+    <Page ID=" DepScheme.aspx">
+      <Msg Message="Please Select Any One of the Scheme and Proceed" />
+    </Page>
+    <Page ID="DepositApplication.aspx">
+      <Msg Message="Allows to Create a new Deposit and Term Dep Accounts" />
+    </Page>
+    <Page ID="15HMarking.aspx">
+      <Msg Message="Allows to Mark F15H,F15G,...etc for Clients" />
+    </Page>
+    <Page ID="MaturedDepositPosting.aspx">
+      <Msg Message="Allows to do Posting for Matured Deposits" />
+    </Page>
+    <Page ID="CapitalizeOfInterest">
+      <Msg Message="SB Interest Posting" />
+    </Page>
+    <Page ID="TermDepositTran.aspx">
+      <Msg Message="TermDepositTran Notifications" />
+    </Page>
+    <Page ID="DepositAutoRenewal.aspx">
+      <Msg Message="DepositAutoRenewal Notifications" />
+    </Page>
+  </Module>
+  <Module ID="LOAN">
+    <Page ID="LoanApplication.aspx">
+      <Msg Message="Loans related &#xD;&#xA;Loans recovery" />
+    </Page>
+    <Page ID="ODApplication.aspx">
+      <Msg Message="OD related &#xD;&#xA; OD's recovery" />
+    </Page>
+    <Page ID="DepLoanApplication.aspx">
+      <Msg Message="Deposit Loan Application Notifications" />
+    </Page>
+    <Page ID="InsuranceDetails.aspx">
+      <Msg Message="Insurance Details Notifications" />
+    </Page>
+    <Page ID="MarkAccountABNorEP.aspx">
+      <Msg Message="MarkAccountABNorEP Notifications" />
+    </Page>
+    <Page ID="LoanNoticeDetails.aspx">
+      <Msg Message="Loan Notice Details Notifications" />
+    </Page>
+    <Page ID="DocumentReceivedList.aspx">
+      <Msg Message="Mark the List of Documents Received from the Customer." />
+    </Page>
+    <Page ID="OdRenewal.aspx">
+      <Msg Message="OD Renewal Details" />
+    </Page>
+    <Page ID="LoanAndODParkedExpenses.aspx">
+      <Msg Message="Loan and OD Parked Expenses can be Debited from the Customer Account" />
+    </Page>
+    <Page ID="ODGuarantorUpadate.aspx">
+      <Msg Message="Guarantor Details of OD Accounts can be Updated Here." />
+    </Page>
+    <Page ID="LoanAndOdAccClosure.aspx">
+      <Msg Message="Loan and OD Accounts Closure" />
+    </Page>
+    <Page ID=" LoanODParkModifications.aspx">
+      <Msg Message="Loan and OD Accounts Parked Expenses Modifications can be done here" />
+    </Page>
+    <Page ID="odEnq.aspx">
+      <Msg Message="OD Enquiry Notifications" />
+    </Page>
+    <Page ID="OdSecurity.aspx">
+      <Msg Message="OD Security Details" />
+    </Page>
+    <Page ID="loanEnq.aspx">
+      <Msg Message="Loan Enquiry Notifications" />
+    </Page>
+  </Module>
+  <Module ID="CLEARING">
+    <Page ID="ClearingPassing.aspx">
+      <Msg Message="Allows to do Receipt and Payment Transactions." />
+    </Page>
+    <Page ID=" BCBDAccountSetUp.aspx">
+      <Msg Message="Can set up Account for  BCBD" />
+    </Page>
+    <Page ID="selBrAbbrAccnoClg.aspx">
+      <Msg Message="Allows to do Clearing Inward and Outward Cheques" />
+    </Page>
+    <Page ID="selBrAbbrAccno.aspx">
+      <Msg Message="Allows to do BDBC Transactions" />
+    </Page>
+    <Page ID="BDBC_PassingOfficer.aspx">
+      <Msg Message="Authorize BDBC Transactions" />
+    </Page>
+  </Module>
+  <Module ID="SHARES">
+    <Page ID="memberAllot.aspx">
+      <Msg Message="Set up New Member" />
+    </Page>
+    <Page ID="DividendTransaction.aspx">
+      <Msg Message="Dividend Transactions" />
+    </Page>
+    <Page ID="ShareTransaction.aspx">
+      <Msg Message="Authorize BDBC Transactions" />
+    </Page>
+    <Page ID="DividendCalculation.aspx">
+      <Msg Message="Divindend Posting" />
+    </Page>
+    <Page ID="ShareEnquiry.aspx">
+      <Msg Message="Display Member Detail when entered Member Number" />
+    </Page>
+  </Module>
+  <Module ID="TRANSACTION">
+    <Page ID="selRnP.aspx">
+      <Msg Message="Allows to do Receipt and Payment Transactions." />
+    </Page>
+    <Page ID="SalaryCredit.aspx">
+      <Msg Message="Allows to Credit the Salary To  Accounts" />
+    </Page>
+    <Page ID="Chequeauthorize.aspx">
+      <Msg Message="Once Cheque Book is Issued , Should be Authorized here.." />
+    </Page>
+    <Page ID="AccClosure.aspx">
+      <Msg Message="Allows to Authorize Closed Accounts" />
+    </Page>
+    <Page ID="PassingOfficerCust.aspx">
+      <Msg Message="Transactions should be Authorized by Passing Officer" />
+    </Page>
+    <Page ID="DeleteTran.aspx">
+      <Msg Message="After Releasing the Transactions,Transactions should be Deleted" />
+    </Page>
+    <Page ID="ChequeIssue.aspx">
+      <Msg Message="This page is used to issue Cheque Book" />
+    </Page>
+    <Page ID="SignatureAuth.aspx">
+      <Msg Message="Signature Of Clients should be Authorized here.." />
+    </Page>
+    <Page ID="CashChest.aspx">
+      <Msg Message="Gives details of Total Cash of each Denominations" />
+    </Page>
+    <Page ID="ChkBookReceipt.aspx">
+      <Msg Message="This screen is used to get Cheque Books for issuinng Clients " />
+    </Page>
+    <Page ID="StopPaymentAuthView.aspx">
+      <Msg Message="This screen is used to Authorize the Accounts which are stopped/removed from stop payment" />
+    </Page>
+    <Page ID="AccChqStopPayment.aspx">
+      <Msg Message="This screen is used to Stop Accounts or Remove Accounts from Stop Payment" />
+    </Page>
+    <Page ID="OtherCreditTrans.aspx">
+      <Msg Message="Allow to do Other Gl Only Credit Transactions" />
+    </Page>
+  </Module>
+  <Module ID="DDPO">
+    <Page ID=" DDPORecipt.aspx">
+      <Msg Message="DDPO Receipt Notifocations" />
+    </Page>
+    <Page ID="ComMaster.aspx">
+      <Msg Message="Commission Master Notifications" />
+    </Page>
+    <Page ID="DDPOSchemeSetup.aspx">
+      <Msg Message="Set up DDPO Schemes" />
+    </Page>
+    <Page ID="DdpoStopPayment.aspx">
+      <Msg Message="Stop Payment for DDPO" />
+    </Page>
+    <Page ID="DDPOissue.aspx">
+      <Msg Message="DDPO Issue" />
+    </Page>
+  </Module>
+  <Module ID="PIGMY">
+    <Page ID=" PigmyTransactiion2.aspx">
+      <Msg Message="Pigmy Transactions Notifocations" />
+    </Page>
+    <Page ID="DepositClosedOpen.aspx">
+      <Msg Message="Deposit Closed or Open Notifications" />
+    </Page>
+    <Page ID="PigmyRemittanceManual.aspx">
+      <Msg Message="Pigmy Remittance Manual Notifications" />
+    </Page>
+    <Page ID="AccountSearch.aspx">
+      <Msg Message="Account Search" />
+    </Page>
+    <Page ID="PigmyAgentMaster.aspx">
+      <Msg Message="Pigmy Agent Master" />
+    </Page>
+    <Page ID="PIGMYAGENT.aspx">
+      <Msg Message="Allow to Create New Pigmy Agent" />
+    </Page>
+    <Page ID="PigmyAgentLoanMarking.aspx">
+      <Msg Message="Pigmy Agent Loan Marking Notifications" />
+    </Page>
+  </Module>
+</AVISHKAR>
